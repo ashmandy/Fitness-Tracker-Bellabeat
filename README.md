@@ -68,7 +68,7 @@ movement, users can manually edit sleep and wake times for accuracy
 over time
 
 The reliance on manual logging means that zeros or gaps in activity, 
-sleep, and calorie data should be interpreted with caution — they may 
+sleep, and calorie data should be interpreted with caution, they may 
 not reflect true user behavior.
 
 ---
