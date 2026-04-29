@@ -128,11 +128,11 @@ active hours and hours of sleep:
 
 - Users averaging **2 very active hours** slept between **5–7 hours**
 - Users averaging **1 very active hour** slept between **6–8 hours**
-- Users with **0 very active hours** showed the widest range — anywhere 
+- Users with **0 very active hours** showed the widest range, anywhere 
 from **1–11 hours** of sleep
 
 The inconsistency at 0 very active hours may partly reflect manual 
-logging gaps — users who did not log activity may still have been 
+logging gaps, users who did not log activity may still have been 
 active, but the data was not captured. Sleep quality and duration are 
 also influenced by multiple factors beyond physical activity alone, 
 including stress, nutrition, and overall lifestyle habits.
