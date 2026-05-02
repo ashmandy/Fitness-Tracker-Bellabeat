@@ -1,4 +1,4 @@
-# Bellabeat Smart Device Usage Analysis
+# Non-Bellabeat Smart Device Usage Analysis
 ### Google Data Analytics Certificate — Capstone Case Study 2
 
 ## Project Overview
